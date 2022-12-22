@@ -8,4 +8,4 @@
 - Java 11
 - JavaFX
 ## Демонстрация проекта:
-![ОКНО ПРОГРАММЫ](https://user-images.githubusercontent.com/112715848/209112866-110a164f-40a4-4cda-bb1a-9aae795a2e5a.png)
+![ОКНО ПРОГРАММЫ](https://user-images.githubusercontent.com/112715848/209128847-134f4bf6-312e-405e-9459-c89d8c23af3d.png)
